@@ -1,9 +1,10 @@
 [
   {
-    "name": "MoreFood20",
+    "name": "MoreFood&Culture",
     "cost": 0,
     "uniques": [
       "Unbuildable <for [AI player]>"],
-      "food": 20 
+      "food": 5
+      "culture": 5
   }
 ] 
